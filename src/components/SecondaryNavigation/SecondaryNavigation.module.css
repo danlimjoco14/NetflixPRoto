@@ -57,7 +57,7 @@
   
   .form .tab_label {
     float: left;
-    color: #ffa369;
+    color: red;
     font-size: 1.8em;
     text-transform: uppercase;
     text-align: center;
@@ -69,7 +69,7 @@
   
   .form .tab_label:hover,
   .form input[type="radio"]:checked + .tab_label {
-    background: #ffa369;
+    background: red;
     color: #fff;
   }
   
