@@ -75,7 +75,7 @@
   
   .form input[id="login"]:checked ~ .figure.reveal_login,
   .form input[id="signup"]:checked ~ .figure.reveal_signin{
-    background: #ffa369;
+    background: red;
     height: initial;
     padding: 3em;
     z-index: 10000000;
