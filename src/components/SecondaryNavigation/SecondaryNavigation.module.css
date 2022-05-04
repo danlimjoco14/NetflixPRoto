@@ -48,8 +48,8 @@
     margin: auto;
     margin-top: 5em;
     width: 100%;
-    background: #fff;
-    border: 5px solid #ffa369;
+    background: black;
+    border: 5px solid red;
     transition: all 300ms ease-in;
     box-shadow: 0px 50px 70px -40px rgba(0,0,0,.8);
     overflow: hidden;
@@ -93,7 +93,7 @@
   }
   
   .figure p {
-    color: #fff;
+    color: black;
   }
   
   .figure input {
@@ -106,15 +106,15 @@
   }
   
   .figure input::-webkit-input-placeholder {
-    color: rgba(255,163,105,.7);
+    color: red;
   }
   
   .figure input[type="text"],
   .figure input[type="password"] {
     width: 100%;
     padding: .5em;
-    border: 3px solid rgba(255,163,105,.7);
-    color: #ffa369;
+    border: 100px black;
+    color: black;
   }
   
   .figure input[type="submit"] {
@@ -123,14 +123,14 @@
     border: 3px solid #fff;
     width: 50%;
     text-transform: uppercase;
-    color: #fff;
+    color: black;
     font-size: 1.2em;
     line-height: 1.6em;
     transition: all 300ms ease-in;
   }
   
   .figure input[type="submit"]:hover {
-    background: #fff;
+    background: black;
     color: #ffa369;
   }
   
