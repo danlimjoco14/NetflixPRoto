@@ -2,7 +2,6 @@ import React from 'react';
 
 import ChevronRightIcon from './ChevronRightIcon';
 
-import placeholderImg from './assets/thumbnail-top10-h.jpg';
 import styles from './Segment.module.css';
 
 const Segment = ({ title, pics }) => {
